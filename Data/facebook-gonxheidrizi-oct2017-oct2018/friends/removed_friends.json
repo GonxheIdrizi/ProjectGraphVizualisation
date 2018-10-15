@@ -1,0 +1,764 @@
+{
+  "deleted_friends": [
+    {
+      "name": "Robin Zbinden",
+      "timestamp": 1513943384
+    },
+    {
+      "name": "Julien Malka",
+      "timestamp": 1499195811
+    },
+    {
+      "name": "Florian Isoz",
+      "timestamp": 1499195801
+    },
+    {
+      "name": "Sergio Pereira",
+      "timestamp": 1499195796
+    },
+    {
+      "name": "Peetriit Ajdini",
+      "timestamp": 1499195791
+    },
+    {
+      "name": "Hugo Guesde",
+      "timestamp": 1499195737
+    },
+    {
+      "name": "Soulaymane Lamrani",
+      "timestamp": 1499195716
+    },
+    {
+      "name": "Ainhoa Ibarrola Mompart",
+      "timestamp": 1499195638
+    },
+    {
+      "name": "Melvin Merk",
+      "timestamp": 1499195630
+    },
+    {
+      "name": "Colomero Tiago",
+      "timestamp": 1499195627
+    },
+    {
+      "name": "Gwendoline Frautschi",
+      "timestamp": 1499195618
+    },
+    {
+      "name": "Delphine Reeb",
+      "timestamp": 1499195614
+    },
+    {
+      "name": "L\u00c3\u00a9ana Hovius",
+      "timestamp": 1499195610
+    },
+    {
+      "name": "Justine Larr\u00c3\u00a9",
+      "timestamp": 1499195605
+    },
+    {
+      "name": "Deborah Zurbuchen",
+      "timestamp": 1499195601
+    },
+    {
+      "name": "Nicolas Malherbe",
+      "timestamp": 1499195597
+    },
+    {
+      "name": "Youri Zbinden",
+      "timestamp": 1499195585
+    },
+    {
+      "name": "Joana Fernandes",
+      "timestamp": 1499195581
+    },
+    {
+      "name": "Daniela RF",
+      "timestamp": 1499195579
+    },
+    {
+      "name": "Cynthia Fornasier",
+      "timestamp": 1499195576
+    },
+    {
+      "name": "Nikita Thomas",
+      "timestamp": 1499195566
+    },
+    {
+      "name": "Rick Odra",
+      "timestamp": 1499195562
+    },
+    {
+      "name": "Claire Schabacker",
+      "timestamp": 1499195554
+    },
+    {
+      "name": "Emilie Akda\u00c4\u009f",
+      "timestamp": 1499195544
+    },
+    {
+      "name": "Rafaela Francisco",
+      "timestamp": 1499195540
+    },
+    {
+      "name": "Elena Rubers",
+      "timestamp": 1499195521
+    },
+    {
+      "name": "Elodie Berger",
+      "timestamp": 1499195519
+    },
+    {
+      "name": "Tania Gaspar",
+      "timestamp": 1499195517
+    },
+    {
+      "name": "Milena Merlino",
+      "timestamp": 1499195514
+    },
+    {
+      "name": "Louis Baur",
+      "timestamp": 1499195511
+    },
+    {
+      "name": "Jessica Gomez",
+      "timestamp": 1499195509
+    },
+    {
+      "name": "Ana Rita Mendes",
+      "timestamp": 1499195507
+    },
+    {
+      "name": "Jos\u00c3\u00a9phine Thiocone",
+      "timestamp": 1499195505
+    },
+    {
+      "name": "Luane Fuchs",
+      "timestamp": 1499195503
+    },
+    {
+      "name": "Ermira Mile Fetahu",
+      "timestamp": 1499195497
+    },
+    {
+      "name": "EpicPotato L'\u00c3\u00a9pique",
+      "timestamp": 1499195494
+    },
+    {
+      "name": "Amel Sam",
+      "timestamp": 1499195490
+    },
+    {
+      "name": "Danilo Resciniti",
+      "timestamp": 1499195487
+    },
+    {
+      "name": "Julie Reeb",
+      "timestamp": 1499195485
+    },
+    {
+      "name": "Blerta Ajvazi",
+      "timestamp": 1499195480
+    },
+    {
+      "name": "Gabriel Morais",
+      "timestamp": 1499195477
+    },
+    {
+      "name": "Monica Unser",
+      "timestamp": 1499195475
+    },
+    {
+      "name": "Sergio Pereira",
+      "timestamp": 1499195471
+    },
+    {
+      "name": "Samir El Abbassi",
+      "timestamp": 1499195466
+    },
+    {
+      "name": "Saranda Fetahu",
+      "timestamp": 1499195463
+    },
+    {
+      "name": "Simon Desponds",
+      "timestamp": 1499195456
+    },
+    {
+      "name": "Flamur Baftiji",
+      "timestamp": 1499195447
+    },
+    {
+      "name": "Miora Obrecht",
+      "timestamp": 1499195445
+    },
+    {
+      "name": "Grace Foley",
+      "timestamp": 1499195443
+    },
+    {
+      "name": "Th\u00c3\u00a9o Carlin",
+      "timestamp": 1499195435
+    },
+    {
+      "name": "Jessica Waelti",
+      "timestamp": 1499195426
+    },
+    {
+      "name": "Morgane L\u00c3\u00a9geret",
+      "timestamp": 1499195415
+    },
+    {
+      "name": "SkiNevoj MeDit",
+      "timestamp": 1499195412
+    },
+    {
+      "name": "Noelia W\u00c3\u00bcthrich",
+      "timestamp": 1499195410
+    },
+    {
+      "name": "Axelle Thomas",
+      "timestamp": 1499195406
+    },
+    {
+      "name": "Angie Rosales Gomez",
+      "timestamp": 1499195403
+    },
+    {
+      "name": "Nahiara Ibarrola",
+      "timestamp": 1499195397
+    },
+    {
+      "name": "Nikola Velkov",
+      "timestamp": 1499195388
+    },
+    {
+      "name": "M\u00c3\u00a9lanke Berry",
+      "timestamp": 1499195383
+    },
+    {
+      "name": "Cl\u00c3\u00a9mentine Dubuis",
+      "timestamp": 1499195378
+    },
+    {
+      "name": "Valmir Fejzullahu",
+      "timestamp": 1499195373
+    },
+    {
+      "name": "Petrit Ajdini",
+      "timestamp": 1499195365
+    },
+    {
+      "name": "Alan Gil",
+      "timestamp": 1499195362
+    },
+    {
+      "name": "Jehona Martanci",
+      "timestamp": 1499195355
+    },
+    {
+      "name": "Ermira Mehmeti",
+      "timestamp": 1499195351
+    },
+    {
+      "name": "David Malherbe",
+      "timestamp": 1499195349
+    },
+    {
+      "name": "Elodie Beyeler Capatet",
+      "timestamp": 1499195344
+    },
+    {
+      "name": "Erblin Mehmeti",
+      "timestamp": 1499195341
+    },
+    {
+      "name": "Isaac Turin",
+      "timestamp": 1499195338
+    },
+    {
+      "name": "Nadia Merlino",
+      "timestamp": 1499195335
+    },
+    {
+      "name": "Aur\u00c3\u00a9lie Gutschmidt",
+      "timestamp": 1499195333
+    },
+    {
+      "name": "IA Blertushe",
+      "timestamp": 1499195321
+    },
+    {
+      "name": "Elsa Suter",
+      "timestamp": 1499195318
+    },
+    {
+      "name": "Absara Subramaniam",
+      "timestamp": 1499195309
+    },
+    {
+      "name": "Arne Saknussem",
+      "timestamp": 1499195301
+    },
+    {
+      "name": "Vincent Marco",
+      "timestamp": 1499195298
+    },
+    {
+      "name": "Arthur Br\u00c3\u00a4ndlin",
+      "timestamp": 1499195290
+    },
+    {
+      "name": "Valen Tin",
+      "timestamp": 1499195287
+    },
+    {
+      "name": "Vahit Alia",
+      "timestamp": 1499195283
+    },
+    {
+      "name": "Leo Weman",
+      "timestamp": 1499195280
+    },
+    {
+      "name": "Albin Siriniqi",
+      "timestamp": 1499195259
+    },
+    {
+      "name": "Maud Moser",
+      "timestamp": 1499195255
+    },
+    {
+      "name": "Lyne Moser",
+      "timestamp": 1499195251
+    },
+    {
+      "name": "Grace Foley",
+      "timestamp": 1499195228
+    },
+    {
+      "name": "Melissa Ramos",
+      "timestamp": 1499195225
+    },
+    {
+      "name": "Ronal Valarezo",
+      "timestamp": 1499195221
+    },
+    {
+      "name": "J\u00c3\u00a9ssica Margarida",
+      "timestamp": 1499195210
+    },
+    {
+      "name": "Benjamin Dray",
+      "timestamp": 1499195204
+    },
+    {
+      "name": "Yoann Thomas",
+      "timestamp": 1499195195
+    },
+    {
+      "name": "Arlind Abdula",
+      "timestamp": 1499195187
+    },
+    {
+      "name": "Ma\u00c3\u00aflys Loranne",
+      "timestamp": 1499195156
+    },
+    {
+      "name": "Lucy Jacob",
+      "timestamp": 1499195114
+    },
+    {
+      "name": "Luca Mossi",
+      "timestamp": 1499195111
+    },
+    {
+      "name": "S\u00c3\u00a9bastien Franzone",
+      "timestamp": 1499195108
+    },
+    {
+      "name": "Adrian Bestilleiro",
+      "timestamp": 1499195106
+    },
+    {
+      "name": "Estelle Rodriguez",
+      "timestamp": 1499195102
+    },
+    {
+      "name": "Patrick Rodrigues",
+      "timestamp": 1499195098
+    },
+    {
+      "name": "Alec Pavone",
+      "timestamp": 1499195095
+    },
+    {
+      "name": "Jessica Sage",
+      "timestamp": 1499195091
+    },
+    {
+      "name": "Rapha\u00c3\u00abl Raccio",
+      "timestamp": 1499195085
+    },
+    {
+      "name": "Charlotte Girod",
+      "timestamp": 1499195080
+    },
+    {
+      "name": "Evgeny Karpouchov",
+      "timestamp": 1499195075
+    },
+    {
+      "name": "La\u00c3\u00afla Houlmann",
+      "timestamp": 1499195065
+    },
+    {
+      "name": "Mathis Gravier",
+      "timestamp": 1499195061
+    },
+    {
+      "name": "Jonathan Fraschini",
+      "timestamp": 1499195057
+    },
+    {
+      "name": "Jo\u00c3\u00ablle Pichonnaz",
+      "timestamp": 1499195050
+    },
+    {
+      "name": "J\u00c3\u00a9ssica Filipa",
+      "timestamp": 1499195042
+    },
+    {
+      "name": "Raquel Dias",
+      "timestamp": 1499195037
+    },
+    {
+      "name": "Noushine Mohadjeri",
+      "timestamp": 1499195030
+    },
+    {
+      "name": "Ana\u00c3\u00afs Gabriel",
+      "timestamp": 1499195021
+    },
+    {
+      "name": "Deniz Berisha",
+      "timestamp": 1499195007
+    },
+    {
+      "name": "Julie Vollaert",
+      "timestamp": 1499194998
+    },
+    {
+      "name": "Sylvain Girardet",
+      "timestamp": 1499194996
+    },
+    {
+      "name": "Matthieu Xtm Blanchette",
+      "timestamp": 1499194969
+    },
+    {
+      "name": "Lorenzo Lenti",
+      "timestamp": 1499194961
+    },
+    {
+      "name": "Cam\u00c3\u00a9lia F. Franco Za\u00c3\u00afr",
+      "timestamp": 1499194957
+    },
+    {
+      "name": "D\u00c3\u00b3r\u00c3\u00a4 G\u00c3\u00a0\u00c3\u00a4a\u00c3\u00a1l",
+      "timestamp": 1499194950
+    },
+    {
+      "name": "Edwin Weglewski",
+      "timestamp": 1499194946
+    },
+    {
+      "name": "Ivan Cime\u00c5\u00a1a",
+      "timestamp": 1499194944
+    },
+    {
+      "name": "M\u00c3\u00a9lanie Lannaz",
+      "timestamp": 1499194941
+    },
+    {
+      "name": "Ton Ton Albert",
+      "timestamp": 1499194938
+    },
+    {
+      "name": "Jennifer Ohrel",
+      "timestamp": 1499194935
+    },
+    {
+      "name": "Elodie Beyeler Pinto",
+      "timestamp": 1499194931
+    },
+    {
+      "name": "Luca Zacheo",
+      "timestamp": 1499194922
+    },
+    {
+      "name": "Jennifer Beyeler",
+      "timestamp": 1499194919
+    },
+    {
+      "name": "Shmouel Aidan",
+      "timestamp": 1499194915
+    },
+    {
+      "name": "Sani Malinova",
+      "timestamp": 1499194912
+    },
+    {
+      "name": "Chlo\u00c3\u00a9 Fuchs",
+      "timestamp": 1499194906
+    },
+    {
+      "name": "Benjamin Giczi",
+      "timestamp": 1499194895
+    },
+    {
+      "name": "Hurije Selimi",
+      "timestamp": 1499194892
+    },
+    {
+      "name": "Blinora La\u00c3\u00a7i",
+      "timestamp": 1499194888
+    },
+    {
+      "name": "Dylan Alves",
+      "timestamp": 1499194879
+    },
+    {
+      "name": "Pte Mess",
+      "timestamp": 1499194875
+    },
+    {
+      "name": "Thalia Asper",
+      "timestamp": 1499194868
+    },
+    {
+      "name": "Paco Mermoud",
+      "timestamp": 1499194858
+    },
+    {
+      "name": "Charlotte Grosjean",
+      "timestamp": 1499194855
+    },
+    {
+      "name": "Sandra Coelho",
+      "timestamp": 1499194842
+    },
+    {
+      "name": "Cam\u00c3\u00a9lia Za\u00c3\u00afr",
+      "timestamp": 1499194830
+    },
+    {
+      "name": "Jennyfer Zignale",
+      "timestamp": 1499194760
+    },
+    {
+      "name": "Elmedina Ceka",
+      "timestamp": 1499194650
+    },
+    {
+      "name": "Som Swaha",
+      "timestamp": 1499194622
+    },
+    {
+      "name": "Cl\u00c3\u00a9mence Barsi",
+      "timestamp": 1499194610
+    },
+    {
+      "name": "Romain Bonjour",
+      "timestamp": 1499194606
+    },
+    {
+      "name": "Amadeus Koukou",
+      "timestamp": 1499194604
+    },
+    {
+      "name": "Blerim Siriniqi",
+      "timestamp": 1499194593
+    },
+    {
+      "name": "Sarah V. St",
+      "timestamp": 1499194566
+    },
+    {
+      "name": "Gzim Siriniqi",
+      "timestamp": 1499194554
+    },
+    {
+      "name": "Baftiu Zeshkanja",
+      "timestamp": 1499194552
+    },
+    {
+      "name": "Sixtine Dubi",
+      "timestamp": 1499194541
+    },
+    {
+      "name": "Yves Christie",
+      "timestamp": 1499194511
+    },
+    {
+      "name": "Chlo\u00c3\u00a9 Salem",
+      "timestamp": 1499194491
+    },
+    {
+      "name": "Elsa Gabriel",
+      "timestamp": 1499194488
+    },
+    {
+      "name": "Vincent Hauser",
+      "timestamp": 1499194485
+    },
+    {
+      "name": "Yekan Deli",
+      "timestamp": 1499194481
+    },
+    {
+      "name": "Samuel Reyes",
+      "timestamp": 1499194476
+    },
+    {
+      "name": "Ivana Jennifer",
+      "timestamp": 1499194465
+    },
+    {
+      "name": "Dila Polat",
+      "timestamp": 1499194462
+    },
+    {
+      "name": "Camila Cabezas",
+      "timestamp": 1499194459
+    },
+    {
+      "name": "Monia Baouab",
+      "timestamp": 1499194451
+    },
+    {
+      "name": "Thisanth Siva",
+      "timestamp": 1499194448
+    },
+    {
+      "name": "Ma\u00c3\u00ablys Billon",
+      "timestamp": 1499194444
+    },
+    {
+      "name": "Julien Elia",
+      "timestamp": 1499194441
+    },
+    {
+      "name": "Marika Maure",
+      "timestamp": 1499194417
+    },
+    {
+      "name": "George Fotiadis",
+      "timestamp": 1499194401
+    },
+    {
+      "name": "Nanissa Raveau",
+      "timestamp": 1499194381
+    },
+    {
+      "name": "Eranda Jakupi",
+      "timestamp": 1499194341
+    },
+    {
+      "name": "Emmy Gijs",
+      "timestamp": 1499194333
+    },
+    {
+      "name": "Ma\u00c3\u00afa Rudnicka",
+      "timestamp": 1499194318
+    },
+    {
+      "name": "Endrit Kastrati",
+      "timestamp": 1499194308
+    },
+    {
+      "name": "C\u00c3\u00a9line Gilgen",
+      "timestamp": 1499194300
+    },
+    {
+      "name": "Rita Costa",
+      "timestamp": 1487006288
+    },
+    {
+      "name": "Michelle Ritz",
+      "timestamp": 1486380271
+    },
+    {
+      "name": "Celine Schnider",
+      "timestamp": 1469737630
+    },
+    {
+      "name": "Sandrine Muller",
+      "timestamp": 1463066998
+    },
+    {
+      "name": "Ramon Krieg",
+      "timestamp": 1443303326
+    },
+    {
+      "name": "Valon Ameti",
+      "timestamp": 1438173234
+    },
+    {
+      "name": "Diogo Ferreira",
+      "timestamp": 1415491112
+    },
+    {
+      "name": "Compte ChroniqueZeubi",
+      "timestamp": 1413841488
+    },
+    {
+      "name": "Valon Ramadani",
+      "timestamp": 1358705296
+    },
+    {
+      "name": "Xhiu Cenga",
+      "timestamp": 1353177242
+    },
+    {
+      "name": "Burim Hasa",
+      "timestamp": 1348401012
+    },
+    {
+      "name": "Jetmir Isaki",
+      "timestamp": 1345151191
+    },
+    {
+      "name": "Faruk Berisha",
+      "timestamp": 1340574007
+    },
+    {
+      "name": "Xhoni Rushiti",
+      "timestamp": 1340573992
+    },
+    {
+      "name": "Ilvije Berisha Sadiki",
+      "timestamp": 1340217937
+    },
+    {
+      "name": "Orhan Rushiti",
+      "timestamp": 1340217916
+    },
+    {
+      "name": "Stefanie Gm\u00c3\u00bcr",
+      "timestamp": 1338396103
+    },
+    {
+      "name": "Bleron Aliu",
+      "timestamp": 1333835560
+    },
+    {
+      "name": "Edoonna Jakupi",
+      "timestamp": 1332681498
+    },
+    {
+      "name": "Faton R Ramadani",
+      "timestamp": 1325526234
+    }
+  ]
+}

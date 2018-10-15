@@ -1,0 +1,29 @@
+{
+  "rejected_requests": [
+    {
+      "name": "Lerjo Porja",
+      "timestamp": 1390335928
+    },
+    {
+      "name": "Dini Kastrati",
+      "timestamp": 1494711678
+    },
+    {
+      "name": "Reige Jacob Palacio",
+      "timestamp": 1494126121
+    },
+    {
+      "name": "Manisha Nagoya",
+      "timestamp": 1421676241
+    },
+    {
+      "name": "Noorr Adeen",
+      "timestamp": 1352913941
+    },
+    {
+      "name": "Lerjo Porja",
+      "timestamp": 1390335928,
+      "marked_as_spam": true
+    }
+  ]
+}
